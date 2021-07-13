@@ -1,5 +1,5 @@
 # Serverless Microservices: Microservices without Containers
-Need to add picture
+![Serverless Microservices: Microservices without Containers](https://chadgreen.blob.core.windows.net/slides/ServerlessMicroservicesWithoutContainers.jpg)
 
 ## Abstract
 Microservices have been the buzz for the past couple of years, and some excellent reasons. Just about anything you read shows implementing microservices using containers.  While containers are great, they bring in their challenges and are not always the right way to do microservices.  Another great way to implement microservices is through serverless technologies.  Think of the possibilities when you add all the benefits of serverless technology into a microservice architecture.
