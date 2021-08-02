@@ -29,5 +29,4 @@ Microservices do not have to mean containers; in this session, you will learn ho
 ## Presentations
 | Event | Location | Date | Time | Room | Downloads |
 |-------|----------|------|------|------|-----------|
-| [Cincy Deliver 2021](https://www.cincydeliver.org/Sessions/Details/4233) | Cincinnati, OH | July 30, 2021 | 13:20 EDT | Sterling | Available Afterwards |
-| [THAT Conference 2021](https://that.us/activities/3cwetny8U9ZGS82HfsyS) | Wisconsin Dells, WI (Hybrid) | July 27, 2021 | 15:30 EDT | Online | Available Afterwards |
+| [Cincy Deliver 2021](https://www.cincydeliver.org/Sessions/Details/4233) | Cincinnati, OH | July 30, 2021 | 13:20 EDT | Sterling | [Slides](https://chadgreen.blob.core.windows.net/slides/ServerlessMicroservices-MicroservicesWithoutContainers_CincyDeliver2021.pdf) |
